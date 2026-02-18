@@ -2,9 +2,6 @@
 type: permanent
 tags: [voice, prompt-qc]
 ---
-
-# Voice agents fail differently than chatbots
-
 Voice adds constraints:
 - latency feels worse
 - interruptions happen (barge-in)

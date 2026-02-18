@@ -2,9 +2,6 @@
 type: permanent
 tags: [rag, failure-modes]
 ---
-
-# RAG failures often look like confident nonsense
-
 When retrieval fails or returns irrelevant chunks, models tend to:
 - answer anyway
 - blend memories and guesses

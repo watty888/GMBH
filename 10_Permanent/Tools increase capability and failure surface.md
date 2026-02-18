@@ -2,9 +2,6 @@
 type: permanent
 tags: [tools, agents]
 ---
-
-# Tools increase capability and failure surface
-
 Tools make agents useful, but expand what can break:
 - schema mismatches
 - latency

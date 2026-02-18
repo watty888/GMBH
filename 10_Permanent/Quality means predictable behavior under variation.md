@@ -2,9 +2,6 @@
 type: permanent
 tags: [prompt-qc, quality]
 ---
-
-# Quality means predictable behavior under variation
-
 A prompt is “good” when the agent behaves correctly across:
 - different user phrasing
 - incomplete data

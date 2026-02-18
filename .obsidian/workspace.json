@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "50_Experiments/Experiment - Deckendesign.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Experiment - Deckendesign"
+            }
+          },
+          {
+            "id": "e99a081122a26c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "40_Playbooks/Eval Harness - Overview.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Eval Harness - Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,43 +199,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc6740da7dab6820",
+  "active": "e99a081122a26c96",
   "lastOpenFiles": [
-    "CLAUDE.md",
-    "CLAUDE.md.tmp.116340.1771432576896",
-    "10_Permanent/Turn-taking and barge-in are core constraints.md",
-    "10_Permanent/Tools increase capability and failure surface.md",
-    "10_Permanent/RAG failures often look like confident nonsense.md",
-    "10_Permanent/Quality means predictable behavior under variation.md",
-    "10_Permanent/Prompts are programs.md",
+    "10_Permanent/Non-English Prompts Issue.md",
     "10_Permanent/MOC - Prompt Engineering Knowledge.md",
+    "10_Permanent/Prompts are programs.md",
+    "10_Permanent/Quality means predictable behavior under variation.md",
+    "10_Permanent/RAG failures often look like confident nonsense.md",
+    "10_Permanent/Tools increase capability and failure surface.md",
+    "10_Permanent/Turn-taking and barge-in are core constraints.md",
+    "10_Permanent/Voice agents fail differently than chatbots.md",
     "10_Permanent/Grounded responses need explicit citeable sources.md",
     "10_Permanent/Evaluate prompts with adversarial inputs.md",
     "10_Permanent/Design tool contracts like APIs.md",
+    "10_Permanent/MOC - Prompt Engineering Knowledge.md.tmp.116340.1771434741050",
+    "10_Permanent/Non-English prompts hit fuzzier model representations.md.tmp.116340.1771434728684",
+    "40_Playbooks/Eval Harness - Overview.md",
+    "00_Inbox/German prompts. What's their problem?.md",
+    "50_Experiments/Experiment - Deckendesign.md",
+    "50_Experiments/Template - Experiment.md",
+    "50_Experiments/MOC - Experiments.md",
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.116340.1771432576896",
     "60_Client-Work/MOC - Client Work.md",
     "40_Playbooks/Platform Notes - Retell.md",
-    "40_Playbooks/Eval Harness - Overview.md",
     "20_Company/Template - Decision Log.md",
     "20_Company/Service Menu.md",
     "20_Company/Company Thesis.md",
-    "10_Permanent/Voice agents fail differently than chatbots.md",
     "00_Inbox/README.md",
     "40_Playbooks/Voice Agent Prompt Spec.md",
     "40_Playbooks/Template - Scoring Rubric.md",
-    "40_Playbooks/Template - Scenario.md",
-    "40_Playbooks/Prompt QC Playbook.md",
     "40_Playbooks",
-    "70_Case-Library/Template - Case.md",
-    "70_Case-Library/MOC - Case Library.md",
-    "70_Case-Library/Case - Computer Vision - Car Sign Recognition.md",
     "70_Case-Library",
-    "60_Client-Work/Template - Client Workspace.md",
     "60_Client-Work",
     "50_Experiments",
     "10_Permanent",
     "20_Company",
-    "00_Inbox",
-    "90_Archive",
-    "50_Expriments"
+    "00_Inbox"
   ]
 }

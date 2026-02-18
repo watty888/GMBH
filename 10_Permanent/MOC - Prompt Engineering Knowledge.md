@@ -2,13 +2,11 @@
 type: moc
 status: active
 ---
-
-# Prompt Engineering Knowledge (MOC)
-
 ## Core concepts
 - [[10_Permanent/Prompts are programs.md]]
 - [[10_Permanent/Quality means predictable behavior under variation.md]]
 - [[10_Permanent/Evaluate prompts with adversarial inputs.md]]
+- [[Non-English Prompts Issue]]
 
 ## Voice-agent specifics
 - [[10_Permanent/Voice agents fail differently than chatbots.md]]

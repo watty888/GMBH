@@ -3,8 +3,6 @@ type: permanent
 tags: [prompt-qc, testing]
 ---
 
-# Evaluate prompts with adversarial inputs
-
 Real users will:
 - be unclear
 - be impatient
