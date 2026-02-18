@@ -186,6 +186,8 @@
   },
   "active": "dc6740da7dab6820",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.116340.1771432576896",
     "10_Permanent/Turn-taking and barge-in are core constraints.md",
     "10_Permanent/Tools increase capability and failure surface.md",
     "10_Permanent/RAG failures often look like confident nonsense.md",
@@ -214,13 +216,11 @@
     "70_Case-Library",
     "60_Client-Work/Template - Client Workspace.md",
     "60_Client-Work",
-    "50_Experiments/Template - Experiment.md",
     "50_Experiments",
     "10_Permanent",
     "20_Company",
     "00_Inbox",
     "90_Archive",
-    "50_Expriments",
-    "40_Product"
+    "50_Expriments"
   ]
 }
